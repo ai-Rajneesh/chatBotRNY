@@ -2,7 +2,7 @@ import os
 from langchain import PromptTemplate, OpenAI, LLMChain
 import chainlit as cl
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "YOUR_OPEN_AI_API_KEY"
 
 template = """Question: {question}
 
