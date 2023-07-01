@@ -6,8 +6,6 @@ This documentation provides an overview of a chatbot implementation using the **
 * chainlit Documentation
 * API Reference-OpenAI API Key
 
-![](images/chatbot01.png)
-
 ## Features
 
 * Information Retrieval: The chatbot can answer questions and provide information on a wide range of topics.
